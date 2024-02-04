@@ -46,4 +46,4 @@ def add_two_and_three():
 #   ask them now.
 ###############################################################################
     
-# add_two_and_three()
+add_two_and_three()
